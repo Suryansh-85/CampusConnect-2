@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# macOS metadata files
+.DS_Store
+
+# Build output
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# Logs
+logs/
+*.log
